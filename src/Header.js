@@ -64,7 +64,7 @@ export default function Header() {
         
 
         <div>
-               <ul className='absolute bg-red-700 w-auto rounded-br-full h-auto pb-20 px-6 text-sm  text-white md:hidden '>
+               <ul className='absolute z-10 right-0 bg-red-700 w-auto rounded-bl-full h-auto pb-20 px-6 text-sm  text-white md:hidden '>
                        <li className='py-1'>Home</li>
                       <li className='py-1'>Shop Sneakers</li>
                        <li className='py-1'>Leather Shoes</li>
